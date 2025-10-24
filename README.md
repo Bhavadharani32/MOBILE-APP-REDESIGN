@@ -31,4 +31,4 @@ IN CONCLUSION, THE REDESIGN SUCCESSFULLY IMPROVES NAVIGATION, SOLVES THE CHALLEN
 
 ##OUTPUT
 
-<img width="1289" height="847" alt="Image" src="https://github.com/user-attachments/assets/fa7b005f-88d3-4dab-9f4c-b8e97aa368f6" />
+<img width="1294" height="860" alt="Image" src="https://github.com/user-attachments/assets/a7da4de2-38a9-4a0a-9355-f018c5a75c2d" />
